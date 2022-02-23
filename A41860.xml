@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and bloody news from Turnham-Green, or, A relation of a sharp encounter between the Earl of Pembrook and his company, with the constable and vvatch belonging to the parish of Chiswick on the 18 instant in which conflict one Mr. Smeethe, a gentleman, and one Mr. Halfpenney, a constable of the said parish vvere mortally wounded ... : with several other remarkable circumstances ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41860</idno>
+            <idno type="STC">Wing G1647</idno>
+            <idno type="STC">ESTC R7412</idno>
+            <idno type="EEBO-CITATION">12813891</idno>
+            <idno type="OCLC">ocm 12813891</idno>
+            <idno type="VID">94119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 382:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and bloody news from Turnham-Green, or, A relation of a sharp encounter between the Earl of Pembrook and his company, with the constable and vvatch belonging to the parish of Chiswick on the 18 instant in which conflict one Mr. Smeethe, a gentleman, and one Mr. Halfpenney, a constable of the said parish vvere mortally wounded ... : with several other remarkable circumstances ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Publisher and date of publication from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+               <term>Chiswick (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94119:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:94119:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <head>Great and Bloody Dems, FROM Turnham-Green, OR A RELATION Of a ſharp Encounter, Between the Earl of <hi>Pembrook,</hi> and his Com<g ref="char:EOLhyphen"/>pany, with the Conſtable and VVatch belong<g ref="char:EOLhyphen"/>ing to the Pariſh of <hi>Chiſwick</hi> on the 18 Inſtant.</head>
+            <argument>
+               <p>In vvhich Conflict one Mr. <hi>Smeethe</hi> a Gentleman, and one Mr. <hi>Halfpenny</hi> a Conſtable of the ſaid Pariſh vvere mortally Wounded, of vvhich Wounds the former vvithin a ſhort time after died and the latters Recovry diſpaired of; as alſo of his Lordſhips being knocked dovvn, and taken Priſoner by Mr. <hi>Smeethe</hi> aforeſaid, after he had Received his Deaths Wound; vvith ſeveral other remarkable Circumſtances that happened in and after the Diſpute.</p>
+            </argument>
+            <p>SO much does Barbarous Inhumanity abound in this moſt wicked Age, that Outrages grows frequent, that no man is affured of his ſafety, Cruelties, being Acted for Diverſi<g ref="char:EOLhyphen"/>on and Murthers made a ſport of, to pleaſe the Fancies of ſuch Deſperadoes as in their high flown Bravery, would make or at leaſt ſhew themſelves dreadful to the World by being dy'd in Blood of Innocents and bedewing of the Earth with Widdows and Orphans Tears; but ſure it is Heavens Indignation will not he ſilent ever, but wrath Divine break forth in fearful Ruine on the Guilty Heads of ſuch who take delight to injure and deſtroy their fellow-Creatures, whom God has ſtamped with the ſame Image, and indued with Souls Rational, and perhaps ſuperiour
+<pb n="2" facs="tcp:94119:2"/>
+               <!-- PDF PAGE 47 -->in worth, unto thoſe whoſe Envy their goodneſs has provoked to deſtroy them; how many Murthers have of late Allarrumed this affrighted Land and Bloodſheds, as well in this great Metropo<g ref="char:EOLhyphen"/>lis, as in its Suburbs, and divers other places. How many have fell by wicked impious hands, when they leaſt ſuſpected Death, without giving the leaſt provocations; and not only ſo, but day<g ref="char:EOLhyphen"/>ly Affronts are thrown in the Face of Authority by ſuch whom nought but bailful miſchiefs pleaſe; whom ſteaming ſlaughter only can delight, whilſt Violences are their Dayly Exerciſe, for ſuch Iniquities the Land Mourns, againſt ſuch it was that the Souls under the Altar cried aloud to their Eternal Maker, How long O Lord God, Holy, Juſt and Righteous will it be e're thou avenge us on thoſe that dwell upon the Earth; and as the Prophet again complaineth, their hands are full of Violence, for certain it is no Crime cries louder before the Throne of the juſt God of all the Earth for Vengeance then cauſeleſly ſhedding Mans Blood and defacing the Image of himſelf that he has Created to ſerve him, but that Perſons nobly Born, and of high Extract ſhould diſgrace and diſparage the Name of true Nobility by ſuch dege<g ref="char:EOLhyphen"/>nerate Barbarities, is much more to be admired ſince all Heroick Souls (and ſuch ſhould eſpeeially lodg in noble Breaſts) natu<g ref="char:EOLhyphen"/>rally have an antipathy againſt unmanly Actions, deteſting horrid Murthers and Aſſaults moſt foul, ſtill giving Reſpect to ſuch whoſe Offices and places by the inſtitution of the Laws demand no leſs, but much more againſt Night-Revelling, and grand De<g ref="char:EOLhyphen"/>baucheries, the which too many of this Age are prone unto as may more particularly be obſerved in this laſt exploit, which now muſt be the Subject of our Narration, the which is related in its horrid Circumſtances as followeth. <hi>Phillip</hi> Earl of <hi>Pem<g ref="char:EOLhyphen"/>brook</hi> and <hi>Mountgomery,</hi> with ſeveral other of his Retinue, having been abroad at Dinner at a perſon of Qualities on Wedneſday being the 18th of this inſtant <hi>Auguſt</hi> 1680. where drinking till it was late, and then as it is ſaid being ſomewhat High flown with Wine, they returned homewards in a Hackney-Coach, till at laſt croſſing over <hi>Turnham</hi>-Green, they were ſtopped by the Watch belonging to the Pariſh of <hi>Chiſwick,</hi> the Conſtable of the ſaid Watch being then with one Mr. <hi>Smeethe</hi> a Gentleman belong<g ref="char:EOLhyphen"/>ing to the Court, and one Mr. <hi>Halfpenny</hi> another Conſtable of the ſaid Pariſh, who juſt came from <hi>London</hi> with the former Con<g ref="char:EOLhyphen"/>ſtable, and went to drink at the Cock and half-Moon, who up<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:94119:2"/>
+               <!-- PDF PAGE 47 -->notice of a Coach being ſtopped, came out of the Houſe, and coming cloſe up to the ſide of it, demanded who the perſons were, and whether they were deſigned, not knowing it to be my Lord of <hi>Pembrook,</hi> nor that they had ſuch dangerous perſons to deal withal; but being ſharply anſwered, they made the like Return, whereupon, as it is creditably related, his Lordſhip open<g ref="char:EOLhyphen"/>ing the other ſide of the Coach, came out and whileſt the Par<g ref="char:EOLhyphen"/>ties beforementioned were talking to the reſt, not dreaming of ſuch a Fate, he came upon them unawares, and with his Sword run <hi>Smeethe</hi> firſt into the Belly quite through, the Weapon paſ<g ref="char:EOLhyphen"/>ſing out, and then wheeling about, made at <hi>Halfpenny,</hi> and with a paſs run him quite through the Body, in on one ſide, and out of the other; and afterwards through the Riſt, ſo furious was he to Deſtruction bent; and had done greater Miſchief, had nor Mr. <hi>Smeethe</hi> feeling himſelf wounded, cried out I will not be thus killed like a Dog, and thereupon caught a Staff out of one of the Watchmens hands, he having none before, and with the ſame Knocked his Lordſhip down, who then began to cry for Quarter, upon which his Servants came and fell upon him to ſave him from Blows, which <hi>Smeethe</hi> ſeeing, ſaid, My Lord you have given me my Deaths-wound, and I could kill you now, having you thus at my Mercy, if I pleaſed, but that I ſcorn ſo foul and baſe a Deed and thereupon ſeiſed him as his Priſoner, whilſt the reſt of his Re<g ref="char:EOLhyphen"/>tinue which were about ſix in number were obliged to ſubmit; ſe<g ref="char:EOLhyphen"/>veral of the Watchmen having broke their Staves in defending themſelves and making a ſtout Reſiſtance, after his Lordſhip was taken he was by the Order of the Conſtable of the Watch con<g ref="char:EOLhyphen"/>veyed to the Cock and Half-Moon, ſtrongly Guarded, for upon the Brunt of the Skirmiſh all the people in the Green were Al<g ref="char:EOLhyphen"/>larumed, where they after he was dilarm'd put him into a Chamber and the Conſtable went in and diſcourſed with his Lordſhip of the heinouſneſs of the Affront and Violence he had done to the Kings Watch, at which he ſeemed little concerned.</p>
+            <p>During the Uproar and Tumult, a perſon of Quallity as it is ſaid came by, who underſtanding what the Cauſe of it was, and how his Lordſhip was taken, went to viſit him, and after a long Con<g ref="char:EOLhyphen"/>ference with the Conſtable of the Watch, his Lordſhip was ſuf<g ref="char:EOLhyphen"/>fered to depart unknown to moſt of the Company; they being given to underſtand that he was Aſleep, and that none muſt di<g ref="char:EOLhyphen"/>ſturb him, <hi>&amp;c.</hi> This exploit was done about twelve of the
+<pb n="4" facs="tcp:94119:3"/>
+               <!-- PDF PAGE 48 -->Clock in the Evening, and after his Lordſhip was let go, which was about one, it is ſaid he made all ſpeed for <hi>London,</hi> he being gon the Wounded men were looked after, and Chirurgions im<g ref="char:EOLhyphen"/>mediately ſent for, who no ſooner came, but found the Wounds to be Mortal, one <hi>viz. Halfpenney</hi> having bled ſo exceſſively that he fainted away; and the other, <hi>viz. Smeethe</hi> in a ſhort time afterwards died, he being a Man of a conſiderable Eſtate, and ſo ſtout that it is believed, had be not been ſurpriſed at una<g ref="char:EOLhyphen"/>wares, and unarmed as he was, none could have wronged him either with Sword or Staff; and a perſon ſo far from offering an abuſe to any, that he abhor'd the Company of ſuch as he knew to be Guilty of the ſame Mr. <hi>Halfpenny</hi> being carried home, the Chirurgions upon ſight of his Wound durſt not Venture to ſearch the Wound to any deepneſs, for fear that his Lungs ſhould be pierced, or ſome other his of Vital parts; ſo that they diſpair of his ever Reconvering, and look every day that he will die; there was likewiſe a third perſon hurt, <hi>viz.</hi> a poor Fellow who was lately diſcharged from a Farmers Service of that place, but his Wounds were but ſlight. On Fryday the Crovvner and his J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry ſate upon the deceaſed; but could not agree in giving in their Verdict.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>D. M.</hi> 1680.</p>
+            <pb facs="tcp:94119:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </back>
+   </text>
+</TEI>
